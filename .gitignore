@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+```
+this prevents your secret token from being uploaded to github
+
+**1.2: create a `requirements.txt` file**
+create a file named `requirements.txt` in your telegram_bot folder with:
+```
+python-telegram-bot==20.7
+python-dotenv==1.0.0
