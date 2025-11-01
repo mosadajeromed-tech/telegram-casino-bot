@@ -29,6 +29,7 @@ URLS = {
     'sports': f"{PICKWIN_BASE}/sportbook/",
     'casino': f"{PICKWIN_BASE}/casino/",
     'live_casino': f"{PICKWIN_BASE}/casino/live/",
+    'vpn_tutorial': "https://www.vpnmentor.com/blog/ultimate-guide-to-vpn/",  # Change this to your VPN tutorial
 }
 
 # ============================================================================
